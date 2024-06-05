@@ -6,3 +6,12 @@
     fill: #ffcccc !important; /* Light red on hover */
     transition: fill 0.3s ease;
 }
+
+.muscle-map path {
+    fill: transparent;
+    transition: fill 0.3s ease-in-out;
+  }
+  
+  .muscle-map path:hover {
+    fill: rgba(255, 0, 0, 0.5);  /* Light red hover effect */
+  }

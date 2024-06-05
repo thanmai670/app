@@ -8,7 +8,7 @@ const App: React.FC = () => {
                 <nav>
                     <ul className="flex space-x-4 p-4 bg-blue-500 text-white">
                         <li>
-                            <Link to="/">Home</Link>
+                            <Link to="/home">Home</Link>
                         </li>
                         <li>
                             <Link to="/muscle-group-map">Muscle Group Map</Link>
