@@ -1,0 +1,7 @@
+Flask
+Flask-PyMongo
+bcrypt
+PyJWT
+flasgger
+flask-cors
+pymongo
